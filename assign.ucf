@@ -1,0 +1,15 @@
+net "clk" loc = B8;
+net "HS" loc = J14;
+net "VS" loc = K13;
+net "R0" loc = C14;
+net "R1" loc = D13;
+net "R2" loc = F13;
+net "G0" loc = F14;
+net "G1" loc = G13;
+net "G2" loc = G14;
+net "B0" loc = H13;
+net "B1" loc = J13;
+net "RIGHT" loc = G12;
+net "LEFT" loc = C11;
+net "pau" loc = M4;
+net "rst" loc = A7;

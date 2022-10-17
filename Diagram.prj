@@ -1,0 +1,3 @@
+vhdl work "myArkanoidVHD.vhd"
+vhdl work "dimezzaClockVHD.vhd"
+vhdl work "Diagram.vhf"

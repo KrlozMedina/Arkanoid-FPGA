@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/Diagram.xst" -ofn "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/Diagram.syr" 
+xst -intstyle ise -ifn "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/Diagram.xst" -ofn "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/Diagram.syr" 
+xst -intstyle ise -ifn "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/Diagram.xst" -ofn "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/Diagram.syr" 
+xst -intstyle ise -ifn "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/Diagram.xst" -ofn "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/Diagram.syr" 

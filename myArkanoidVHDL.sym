@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="myArkanoidVHDL">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2014-9-27T20:13:27</timestamp>
+    <pin polarity="Input" x="0" y="-1120" name="clk" />
+    <pin polarity="Input" x="0" y="-848" name="paddleGoRight" />
+    <pin polarity="Input" x="0" y="-576" name="paddleGoLeft" />
+    <pin polarity="Input" x="0" y="-304" name="startPauseGame" />
+    <pin polarity="Input" x="0" y="-32" name="resetGame" />
+    <pin polarity="Output" x="432" y="-1120" name="hsync" />
+    <pin polarity="Output" x="432" y="-1056" name="vsync" />
+    <pin polarity="Output" x="432" y="-992" name="red0" />
+    <pin polarity="Output" x="432" y="-928" name="green0" />
+    <pin polarity="Output" x="432" y="-864" name="blue0" />
+    <pin polarity="Output" x="432" y="-800" name="red1" />
+    <pin polarity="Output" x="432" y="-736" name="green1" />
+    <pin polarity="Output" x="432" y="-672" name="blue1" />
+    <pin polarity="Output" x="432" y="-608" name="red2" />
+    <pin polarity="Output" x="432" y="-544" name="green2" />
+    <pin polarity="Output" x="432" y="-224" name="leds1(6:0)" />
+    <pin polarity="Output" x="432" y="-160" name="leds2(6:0)" />
+    <pin polarity="Output" x="432" y="-96" name="leds3(6:0)" />
+    <pin polarity="Output" x="432" y="-32" name="leds4(6:0)" />
+    <graph>
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="216" y="-1160" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-1120" type="pin clk" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-848" type="pin paddleGoRight" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-576" type="pin paddleGoLeft" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-304" type="pin startPauseGame" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-32" type="pin resetGame" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-1120" type="pin hsync" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-1056" type="pin vsync" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-992" type="pin red0" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-928" type="pin green0" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-864" type="pin blue0" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-800" type="pin red1" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-736" type="pin green1" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-672" type="pin blue1" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-608" type="pin red2" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-544" type="pin green2" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-224" type="pin leds1(6:0)" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-160" type="pin leds2(6:0)" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-96" type="pin leds3(6:0)" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="360" y="-32" type="pin leds4(6:0)" />
+        <rect width="304" x="64" y="-1152" height="1152" />
+        <line x2="0" y1="-1120" y2="-1120" x1="64" />
+        <line x2="0" y1="-848" y2="-848" x1="64" />
+        <line x2="0" y1="-576" y2="-576" x1="64" />
+        <line x2="0" y1="-304" y2="-304" x1="64" />
+        <line x2="0" y1="-32" y2="-32" x1="64" />
+        <line x2="432" y1="-1120" y2="-1120" x1="368" />
+        <line x2="432" y1="-1056" y2="-1056" x1="368" />
+        <line x2="432" y1="-992" y2="-992" x1="368" />
+        <line x2="432" y1="-928" y2="-928" x1="368" />
+        <line x2="432" y1="-864" y2="-864" x1="368" />
+        <line x2="432" y1="-800" y2="-800" x1="368" />
+        <line x2="432" y1="-736" y2="-736" x1="368" />
+        <line x2="432" y1="-672" y2="-672" x1="368" />
+        <line x2="432" y1="-608" y2="-608" x1="368" />
+        <line x2="432" y1="-544" y2="-544" x1="368" />
+        <rect width="64" x="368" y="-236" height="24" />
+        <line x2="432" y1="-224" y2="-224" x1="368" />
+        <rect width="64" x="368" y="-172" height="24" />
+        <line x2="432" y1="-160" y2="-160" x1="368" />
+        <rect width="64" x="368" y="-108" height="24" />
+        <line x2="432" y1="-96" y2="-96" x1="368" />
+        <rect width="64" x="368" y="-44" height="24" />
+        <line x2="432" y1="-32" y2="-32" x1="368" />
+    </graph>
+</symbol>

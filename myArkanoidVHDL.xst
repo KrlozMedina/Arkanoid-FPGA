@@ -1,0 +1,5 @@
+set -tmpdir "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/xst/projnav.tmp"
+set -xsthdpdir "D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/xst"
+elaborate
+-ifn myArkanoidVHDL.prj
+-ifmt mixed

@@ -1,0 +1,4 @@
+vhdtdtfi -lib work myArkanoidVHD.vhd -prj Arkanoid -o myArkanoidVHDL.spl -module myArkanoidVHDL -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e myArkanoidVHDL.spl {D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/myArkanoidVHDL.sym} 
+vhdtdtfi -lib work myArkanoidVHD.vhd -prj Arkanoid -o myArkanoidVHDL.spl -module myArkanoidVHDL -template C:/Xilinx/14.6/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e myArkanoidVHDL.spl {D:/Diseno Digital Avanzado/Proyectos/Xilinx/Otras personas/Arkanoid/myArkanoidVHDL.sym} 
